@@ -1,0 +1,1 @@
+in this entire expo my-app i am using nativewind version 2.0.11
